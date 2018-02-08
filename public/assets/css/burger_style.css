@@ -1,0 +1,15 @@
+body {
+    background: goldenrod;
+}
+
+
+h1 {
+color: black;
+font-family: 'Shrikhand', cursive;
+font-size: 72px;
+text-align: center;
+}
+
+#burgertimeChars {
+margin: auto;
+}
